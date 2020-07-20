@@ -1,0 +1,15 @@
+﻿body{
+
+}
+
+.clicked {
+    color: #7f8c8d;
+}
+
+.form{
+    display: none ;
+}
+
+.showing{
+    display: none;
+}
