@@ -22,5 +22,5 @@ function init() {
 }
 paintImage(Math.ceil(Math.random() * IMG_Number));
 
-setInterval(init, 5000);
+setInterval(init, 20000);
 //init();
